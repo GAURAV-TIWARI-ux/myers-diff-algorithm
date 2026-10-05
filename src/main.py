@@ -1,6 +1,6 @@
 import sys
 import gc
-
+import random
 
 def read_lines(path):
     # Read raw bytes, split on newline byte, drop final empty piece.
